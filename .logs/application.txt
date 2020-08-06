@@ -1,0 +1,10 @@
+2020-07-28 19:00:50,169  INFO [main] SharedSD:24 - ******************************
+2020-07-28 19:00:50,177  INFO [main] SharedSD:25 - Test setup!
+2020-07-28 19:01:06,982  INFO [main] SharedSD:42 - Cleanup!
+2020-07-28 19:01:06,982  INFO [main] SharedSD:43 - Test completed!
+2020-07-28 19:01:06,982  INFO [main] SharedSD:45 - ********************************
+2020-07-28 19:13:33,452  INFO [main] SharedSD:24 - ******************************
+2020-07-28 19:13:33,469  INFO [main] SharedSD:25 - Test setup!
+2020-07-28 19:14:04,313  INFO [main] SharedSD:42 - Cleanup!
+2020-07-28 19:14:04,313  INFO [main] SharedSD:43 - Test completed!
+2020-07-28 19:14:04,313  INFO [main] SharedSD:45 - ********************************
