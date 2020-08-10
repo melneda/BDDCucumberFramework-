@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1597093224848" stop="1597093224935" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Verify invalid login from messenger page</name>
+    <title>Verify invalid login from messenger page</title>
+    <test-cases>
+        <test-case start="1597093224875" stop="1597093224879" status="pending">
+            <name>Given I am on messenger page</name>
+            <title>Given I am on messenger page</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MyMacs-MBP-2.fios-router.home"/>
+                <label name="thread" value="37695@MyMacs-MBP-2.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597093224888" stop="1597093224888" status="pending">
+            <name>When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page</name>
+            <title>When I enter ilhanturkmen@siliconelabs.com into username field on the messenger page</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MyMacs-MBP-2.fios-router.home"/>
+                <label name="thread" value="37695@MyMacs-MBP-2.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597093224892" stop="1597093224892" status="pending">
+            <name>And I enter test123 into password field on the messenger page</name>
+            <title>And I enter test123 into password field on the messenger page</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MyMacs-MBP-2.fios-router.home"/>
+                <label name="thread" value="37695@MyMacs-MBP-2.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597093224894" stop="1597093224894" status="pending">
+            <name>And I click on login button on messenger page</name>
+            <title>And I click on login button on messenger page</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MyMacs-MBP-2.fios-router.home"/>
+                <label name="thread" value="37695@MyMacs-MBP-2.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1597093224897" stop="1597093224897" status="pending">
+            <name>Then I verify invalid login message on sign in page</name>
+            <title>Then I verify invalid login message on sign in page</title>
+            <failure>
+                <message>Test ignored (without reason)!</message>
+                <stack-trace>There are no stack trace</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="MyMacs-MBP-2.fios-router.home"/>
+                <label name="thread" value="37695@MyMacs-MBP-2.fios-router.home.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Verify invalid login from messenger page"/>
+        <label name="feature" value="Messenger page feature"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
